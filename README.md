@@ -1,1 +1,1 @@
-# RESUME-CHECKER-AND-JOB-SUGGESTION
+The Resume Quality Checker is a modern web application designed to help job seekers improve their resumes through automated analysis and feedback. The application provides instant feedback on resume quality, ATS compatibility, and suggests improvements while offering direct links to relevant job opportunities. It combines advanced resume parsing, ATS analysis, and modern UI/UX principles to create a user-friendly tool for resume optimization.
